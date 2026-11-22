@@ -1,0 +1,11 @@
+# Self-authored test palette for Phosphor Field (light). Not a copy of any theme.
+mode = "light"
+
+accent = "#1f6f5c"
+muted = "#9aa39d"
+
+background = "#f2f1ea"
+foreground = "#22302a"
+
+color3 = "#a86f00"
+blue = "#2d5f9a"

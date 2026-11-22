@@ -1,0 +1,13 @@
+# Self-authored test palette for Phosphor Field (dark). Not a copy of any theme.
+mode = "dark"
+
+accent = "#ffcc00"
+selection = "#2a2a1c"   # unknown keys are ignored by the reader
+muted = '#5c5a44'
+
+background = "#0b0c08"
+foreground = "#e6e2c8"
+
+red = "#d9534f"
+yellow = "#ffcc00"
+green = "#00ff66"

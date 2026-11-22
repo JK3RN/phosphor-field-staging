@@ -1,0 +1,23 @@
+# Build output
+/build/
+/phosphor-field
+
+# Personal creature libraries, settings, backups (never commit)
+*.pfl
+*.pfl.*
+*.pfs
+*.lock
+
+# Local secrets and editor/OS files (never commit)
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.log
+*.tmp
+*.bmp
+__pycache__/
+.cache/
+.DS_Store
